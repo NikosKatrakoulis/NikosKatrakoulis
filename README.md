@@ -34,11 +34,3 @@
 ## 🎯 Goal
 Build strong software engineering foundations and grow into **AI Engineering**.
 
----
-
-## 🌐 Connect with me
-<p align="left">
-  <a href="https://www.linkedin.com/in/nikos-katrakoulis-a79a47378/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30"/>
-  </a>
-</p>
