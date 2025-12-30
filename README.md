@@ -1,6 +1,6 @@
 # Hey there, I’m Nikos! 👋
 
-🎓 MSc Software Development student  
+🎓 MSc Software Development 
 💻 Python & Java enthusiast  
 🚀 Building projects daily and learning through hands-on practice  
 🤖 Interested in AI Engineering
