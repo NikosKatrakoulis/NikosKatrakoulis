@@ -8,9 +8,9 @@
 ---
 
 ## 🧠 What I’m currently doing
-- 📘 Studying Software Development fundamentals
+- 📘 Studying Software Development 
 - 🐍 Practicing Python daily (notes, exercises, mini-projects)
-- ☕ Working with Java for university & personal projects
+- ☕ Working with Python & Java for university & personal projects
 
 ---
 
