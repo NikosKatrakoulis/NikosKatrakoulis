@@ -4,7 +4,7 @@
 # Nikos Katrakoulis 👋
 
 🎓 MSc Software Development student
-💻 Java & Python enthusiast
+💻 Python & Java enthusiast
 🚀 Building projects daily and learning through hands-on practice
 🤖 Interested in AI Engineering
 
