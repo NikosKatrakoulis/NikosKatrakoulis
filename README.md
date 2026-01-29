@@ -1,7 +1,7 @@
 # Hey there, I’m Nikos! 👋
 
 🎓 MSc Software Development 
-💻 Python & Java enthusiast  
+💻 Python enthusiast  
 🚀 Building projects daily and learning through hands-on practice  
 🤖 Interested in AI Engineering
 
@@ -10,7 +10,7 @@
 ## 🧠 What I’m currently doing
 - 📘 Studying Software Development 
 - 🐍 Practicing Python daily (notes, exercises, mini-projects)
-- ☕ Working with Python & Java for university & personal projects
+- ☕ Working with Python for personal projects
 
 ---
 
