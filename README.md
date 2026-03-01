@@ -25,13 +25,6 @@
 
 ---
 
-## 📂 Projects
-- 🐍 **Python Daily Learning**  
-  Daily Python practice including notes, exercises and mini-projects, focused on building strong fundamentals.  
-  👉 https://github.com/NikosKatrakoulis/python-daily-learning
-
-
----
 
 ## 🎯 Goal
 Build strong software engineering foundations and gradually transition into **AI Engineering** through practical projects.
