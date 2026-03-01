@@ -9,7 +9,7 @@
 
 ## 🧠 What I’m currently doing
 - 📘 Studying Software Development 
-- 🐍 Practicing Python daily (notes, exercises, mini-projects)
+- 🐍 Practicing Python daily (private study repository)
 - ☕ Working with Python for personal projects
 
 ---
@@ -25,9 +25,15 @@
 
 ---
 
+## 🚀 Projects
+
+- **CLI Calculator** – Command-line calculator with input validation
+- **CLI To-Do List** – Menu-based task manager with date/time validation
+
+---
 
 ## 🎯 Goal
 Build strong software engineering foundations and gradually transition into **AI Engineering** through practical projects.
 
-📌 This profile reflects my ongoing learning journey and will evolve as I grow as a developer.
+📌 Focused on building strong software engineering foundations.
 
