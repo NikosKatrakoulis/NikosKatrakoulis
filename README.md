@@ -27,8 +27,8 @@
 
 ## 🚀 Projects
 
-- **CLI Calculator** – Command-line calculator with input validation
-- **CLI To-Do List** – Menu-based task manager with date/time validation
+- **[CLI Calculator](https://github.com/NikosKatrakoulis/cli-calculator)** – Command-line calculator with input validation  
+- **[CLI To-Do List](https://github.com/NikosKatrakoulis/cli-todo-list)** – Menu-based task manager with date/time validation
 
 ---
 
