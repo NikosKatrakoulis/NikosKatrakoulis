@@ -42,8 +42,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40"/>
 <!--
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" height="40"/>
--->
 </p>
+-->
+
 <!--
 <h3>DevOps</h3>
 <p>
