@@ -15,8 +15,6 @@
 
 ---
 
-## 🛠 Languages & Tools
-
 <h2>🛠 Languages & Tools</h2>
 
 <p>
