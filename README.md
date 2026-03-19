@@ -1,39 +1,36 @@
 # Hey there, I’m Nikos! 👋
 
-🎓 MSc Software Development 
-💻 Python enthusiast  
-🚀 Building projects daily and learning through hands-on practice  
-🤖 Interested in AI Engineering
+- 🎓 MSc Software Development
+- ☕ Focused on Java Backend Engineering
+- 🛠 Building projects through hands-on practice
+- 📚 Strengthening software engineering fundamentals
 
 ---
 
 ## 🧠 What I’m currently doing
-- 📘 Studying Software Development 
-- 🐍 Practicing Python daily (private study repository)
-- ☕ Working with Python for personal projects
+
+- ☕ Studying Java backend fundamentals
+- 🔒 Practicing Java daily in a private study repository
+- 🚀 Building CLI and backend-oriented projects step by step
 
 ---
 
-## 🛠️ Languages & Tools
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40"/>
-</p>
+## 🛠 Languages & Tools
+
+Java · Python · Git · GitHub · IntelliJ IDEA · VS Code
 
 ---
 
 ## 🚀 Projects
 
-- **[CLI Calculator](https://github.com/NikosKatrakoulis/cli-calculator)** – Command-line calculator with input validation  
-- **[CLI To-Do List](https://github.com/NikosKatrakoulis/cli-todo-list)** – Menu-based task manager with date/time validation
+- **[CLI Calculator](https://github.com/NikosKatrakoulis/cli-calculator)** – Python command-line calculator with input validation  
+- **[CLI To-Do List](https://github.com/NikosKatrakoulis/cli-todo-list)** – Python menu-based task manager with date/time validation  
+- **Java Daily Learning** – Private repository for structured Java backend preparation
 
 ---
 
 ## 🎯 Goal
-Build strong software engineering foundations and gradually transition into **AI Engineering** through practical projects.
 
-📌 Focused on building strong software engineering foundations.
+Build strong software engineering foundations and transition into Java Backend Engineering through structured study and practical projects.
 
+📌 Currently focused on Java core, backend fundamentals and project-based learning.
