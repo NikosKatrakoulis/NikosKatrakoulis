@@ -60,9 +60,10 @@
 
 ## 🚀 Projects
 
-- **[CLI Calculator](https://github.com/NikosKatrakoulis/cli-calculator)** – Python command-line calculator with input validation  
-- **[CLI To-Do List](https://github.com/NikosKatrakoulis/cli-todo-list)** – Python menu-based task manager with date/time validation  
-- **Java Daily Learning** – Private repository for structured Java backend preparation
+- [Java CLI Calculator](https://github.com/NikosKatrakoulis/java-cli-calculator) – Java command-line calculator focused on clean structure, modular thinking and incremental development
+- [CLI Calculator](https://github.com/NikosKatrakoulis/cli-calculator) – Python command-line calculator with input validation
+- [CLI To-Do List](https://github.com/NikosKatrakoulis/cli-todo-list) – CLI task manager with structured menu-based interaction and validation
+- Java Backend Learning – Private repository for structured Java backend preparation
 
 ---
 
