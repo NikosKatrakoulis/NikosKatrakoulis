@@ -60,7 +60,7 @@
 
 ## 🚀 Projects
 
-- [Java CLI Calculator](https://github.com/NikosKatrakoulis/java-cli-calculator) – Java command-line calculator focused on clean structure, modular thinking, and incremental development
+- [Java CLI Calculator](https://github.com/NikosKatrakoulis/java-cli-calculator) – Java command-line calculator focused on clean structure, modular thinking and incremental development
 - [CLI Calculator](https://github.com/NikosKatrakoulis/cli-calculator) – Python command-line calculator with input validation
 - [CLI To-Do List](https://github.com/NikosKatrakoulis/cli-todo-list) – CLI task manager with structured menu-based interaction and validation
 - **Java Backend Learning** – Private repository for structured Java backend preparation
