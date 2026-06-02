@@ -26,13 +26,16 @@
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40"/>
 </p>
+-->
 
 <h3>Databases</h3>
 <p>
+  <!--
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
+  -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40"/>
 </p>
--->
+
 
 <h3>Tools</h3>
 <p>
