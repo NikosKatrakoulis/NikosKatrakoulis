@@ -6,11 +6,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=900&color=2DD4BF&center=true&vCenter=true&width=650&lines=MSc+Software+Development+%F0%9F%8E%93;Java+%7C+Spring+Boot+%7C+Backend+Engineering+%E2%98%95;Building+projects+through+hands-on+practice+%F0%9F%9B%A0;Strengthening+software+engineering+fundamentals+%F0%9F%93%9A" alt="Typing SVG" />
 </a>
 
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=NikosKatrakoulis&label=Profile%20Views&color=2DD4BF&style=flat" alt="profile views"/>
-<img src="https://img.shields.io/github/followers/NikosKatrakoulis?label=Followers&style=flat&color=2DD4BF" alt="followers"/>
-
 </div>
 
 <br/>
@@ -86,18 +81,6 @@
 
 <br/>
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=NikosKatrakoulis&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2DD4BF&icon_color=2DD4BF&text_color=c9d1d9&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikosKatrakoulis&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2DD4BF&text_color=c9d1d9" height="165"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=NikosKatrakoulis&theme=tokyonight&hide_border=true&background=0D1117&ring=2DD4BF&fire=2DD4BF&currStreakLabel=2DD4BF" height="165"/>
-
-</div>
-
-<br/>
 
 ## 🚀 Projects
 
