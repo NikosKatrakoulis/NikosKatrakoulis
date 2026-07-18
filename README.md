@@ -23,159 +23,147 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F766E,100:4F46E5&height=3&width=100%" width="100%"/>
 
-## 🧭 Currently Exploring
+## 👋 About Me
+
+MSc Software Development graduate focused on **Java backend engineering** with **Spring Boot**. I build projects through hands-on practice and structured, daily study — strengthening core software engineering fundamentals as I work toward a backend engineering role.
+
+<br/>
+
+## 🚀 Projects
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-- ☕ Studying Java backend fundamentals with Spring Boot & Maven
-- 🗄️ Practicing SQL and relational database design
-- 🧩 Solving Algorithms & Data Structures problems (LeetCode)
-- 🌐 Learning JavaScript, HTML, CSS and React for full-stack awareness
+### 🎓 [Learning Tracker](https://github.com/NikosKatrakoulis/learning-tracker)
+Full-stack Learning & Development platform for assigning, tracking and evaluating employee training progress. Includes JWT-secured REST API, role-based access (admin/employee), quizzes, and progress reporting.
+
+**Stack:** `Java` `Spring Boot` `Spring Security (JWT)` `PostgreSQL` `Flyway` `React` `Vite`
 
 </td>
 <td width="50%" valign="top">
 
-- 🏗️ Studying System Design fundamentals ("system design in a hurry")
-- 🎨 Diving into Software Design Patterns
-- 🔒 Working daily on private repositories — DSA, Spring Boot, SQL, HTML/CSS, System Design & Design Patterns
-- 🚀 Building CLI and backend-oriented projects step by step
+### 📈 [CryptoTracker](https://github.com/NikosKatrakoulis/CryptoTracker)
+Android app for real-time cryptocurrency tracking — live prices, watchlists, and portfolio management, consuming the CoinGecko API.
+
+**Stack:** `Java` `Android` `MVVM` `Room` `Retrofit` `CoinGecko API`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📝 [Todo App](https://github.com/NikosKatrakoulis/todoapp)
+Full-stack Todo web application with create, complete, and delete task functionality, server-side rendered.
+
+**Stack:** `Java` `Spring Boot` `Spring Data JPA` `MySQL` `Thymeleaf`
+
+</td>
+<td width="50%" valign="top">
+
+### 🔒 Java Backend Learning *(Private)*
+Structured, daily practice repository for backend preparation — algorithms, Spring Boot exercises, and system design notes.
+
+**Stack:** `Private` `Java` `DSA` `LeetCode` `SQL` `HTML/CSS` `JavaScript` `React` `System Design & Design Patterns`
 
 </td>
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F766E,100:4F46E5&height=3&width=100%" width="100%"/>
+<br/>
 
-## 🗂️ Featured Work
+## 🧠 Currently Learning
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-### 🎓 Learning Tracker
-Full-stack Learning & Development platform for assigning, tracking and evaluating employee training progress.
-
-`Spring Boot` `React` `PostgreSQL` `JWT`
-
-**[→ View Repository](https://github.com/NikosKatrakoulis/learning-tracker)**
+- ☕ Java backend fundamentals with Spring Boot & Maven
+- 🗄️ SQL and relational database design
+- 🧩 Algorithms & Data Structures (LeetCode)
+- 🌐 JavaScript, HTML, CSS and React for full-stack awareness
 
 </td>
 <td width="50%" valign="top">
 
-### 📈 CryptoTracker
-Android app for real-time cryptocurrency tracking — live prices, watchlists, and portfolio management.
-
-`Java` `MVVM` `CoinGecko API`
-
-**[→ View Repository](https://github.com/NikosKatrakoulis/CryptoTracker)**
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📝 Todo App
-A simple full-stack Todo web app — create, complete, and delete tasks.
-
-`Spring Boot` `Spring Data JPA` `MySQL` `Thymeleaf`
-
-**[→ View Repository](https://github.com/NikosKatrakoulis/todoapp)**
-
-</td>
-<td width="50%" valign="top">
-
-### 🔒 Working daily on private repositories
-DSA, Spring Boot, SQL, HTML/CSS, System Design & Design Patterns
-
-`Private` `Java` `DSA` `LeetCode` `SQL` `HTML/CSS` `JavaScript` `React` `System Design & Design Patterns`
-
-*Structured, incremental daily practice*
+- 🏗️ System Design fundamentals
+- 🎨 Software Design Patterns
+- 🔒 Daily practice in private study repositories
+- 🚀 CLI and backend-oriented projects, built incrementally
 
 </td>
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F766E,100:4F46E5&height=3&width=100%" width="100%"/>
+<br/>
 
-## 🧰 Tech Arsenal
+## 🧰 Tech Stack
 
 <table width="100%">
 <tr>
 <td width="18%"><b>Languages</b></td>
 <td width="82%">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" height="40"/>&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" height="40"/>&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" height="40"/>
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
 </td>
 </tr>
 <tr>
 <td><b>Backend</b></td>
 <td>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" title="Spring" height="40"/>&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" title="Maven" height="40"/>
+
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+
 </td>
 </tr>
 <tr>
 <td><b>Frontend</b></td>
 <td>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" height="40"/>&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" height="40"/>&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" height="40"/>
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
 </td>
 </tr>
 <tr>
 <td><b>Databases</b></td>
 <td>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" height="40"/>&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" height="40"/>
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
 </td>
 </tr>
 <tr>
 <td><b>Tools</b></td>
 <td>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" height="40"/>&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" height="40"/>&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" title="IntelliJ IDEA" height="40"/>&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" height="40"/>&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" height="40"/>
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
 </td>
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F766E,100:4F46E5&height=3&width=100%" width="100%"/>
+<br/>
 
-## 📊 GitHub Pulse
+## 🎯 Goal
 
-<div align="center">
+Build strong software engineering foundations and transition into Java Backend Engineering through structured study, algorithmic problem solving and practical full-stack awareness.
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=NikosKatrakoulis&theme=tokyonight&hide_border=true&background=0D1117&ring=2DD4BF&fire=2DD4BF&currStreakLabel=2DD4BF&sideNums=2DD4BF&dates=8b949e" height="195"/>
-
-<br/><br/>
-
-<img src="https://raw.githubusercontent.com/NikosKatrakoulis/NikosKatrakoulis/main/github-metrics.svg" width="100%"/>
-
-<br/><br/>
-
-<img src="https://raw.githubusercontent.com/NikosKatrakoulis/NikosKatrakoulis/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F766E,100:4F46E5&height=3&width=100%" width="100%"/>
-
-## 🎯 Mission
-
-<div align="center">
-
-> Build strong software engineering foundations and transition into Java Backend Engineering through structured study, algorithmic problem solving and practical full-stack awareness.
->
-> 📌 **Currently focused on:** Spring Boot · Maven · SQL · Data Structures & Algorithms · System Design fundamentals · Design Patterns · modern frontend basics (JS/HTML/CSS/React)
-
-</div>
+**Currently focused on:** Spring Boot · Maven · SQL · Data Structures & Algorithms · System Design fundamentals · Design Patterns · modern frontend basics (JS/HTML/CSS/React)
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:2DD4BF,100:0F766E&height=120&section=footer" width="100%"/>
+<div align="center">
+
+📫 **Let's connect:** [GitHub](https://github.com/NikosKatrakoulis)
 
 </div>
