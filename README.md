@@ -40,6 +40,8 @@ Full-stack Learning & Development platform for assigning, tracking and evaluatin
 
 **Stack:** `Java` `Spring Boot` `Spring Security (JWT)` `PostgreSQL` `Flyway` `React` `Vite`
 
+**[→ View Repository](https://github.com/NikosKatrakoulis/learning-tracker)**
+
 </td>
 <td width="50%" valign="top">
 
@@ -47,6 +49,8 @@ Full-stack Learning & Development platform for assigning, tracking and evaluatin
 Android app for real-time cryptocurrency tracking — live prices, watchlists, and portfolio management, consuming the CoinGecko API.
 
 **Stack:** `Java` `Android` `MVVM` `Room` `Retrofit` `CoinGecko API`
+
+**[→ View Repository](https://github.com/NikosKatrakoulis/CryptoTracker)**
 
 </td>
 </tr>
@@ -57,6 +61,8 @@ Android app for real-time cryptocurrency tracking — live prices, watchlists, a
 Full-stack Todo web application with create, complete, and delete task functionality, server-side rendered.
 
 **Stack:** `Java` `Spring Boot` `Spring Data JPA` `MySQL` `Thymeleaf`
+
+**[→ View Repository](https://github.com/NikosKatrakoulis/todoapp)**
 
 </td>
 <td width="50%" valign="top">
