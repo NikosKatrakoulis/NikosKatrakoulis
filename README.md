@@ -61,8 +61,8 @@ Full-stack Todo web application with create, complete, and delete task functiona
 </td>
 <td width="50%" valign="top">
 
-### 🔒 Java Backend Learning *(Private)*
-Structured, daily practice repository for backend preparation — algorithms, Spring Boot exercises, and system design notes.
+### 🔒 Working daily on private repositories
+DSA, Spring Boot, SQL, HTML/CSS, System Design & Design Patterns
 
 **Stack:** `Private` `Java` `DSA` `LeetCode` `SQL` `HTML/CSS` `JavaScript` `React` `System Design & Design Patterns`
 
