@@ -25,7 +25,7 @@
 
 ## 👋 About Me
 
-MSc Software Development graduate focused on **Java backend engineering** with **Spring Boot**. I build projects through hands-on practice and structured, daily study — strengthening core software engineering fundamentals as I work toward a backend engineering role.
+MSc Software Development graduate focused on **Java backend engineering** with **Spring Boot**. I build projects through hands-on practice and structured, daily study, strengthening core software engineering fundamentals as I work toward a backend engineering role.
 
 <br/>
 
@@ -36,7 +36,7 @@ MSc Software Development graduate focused on **Java backend engineering** with *
 <td width="50%" valign="top">
 
 ### 🎓 [Learning Tracker](https://github.com/NikosKatrakoulis/learning-tracker)
-Full-stack Learning & Development platform for assigning, tracking and evaluating employee training progress. Includes JWT-secured REST API, role-based access (admin/employee), quizzes, and progress reporting.
+Full-stack Learning & Development platform for assigning, tracking and evaluating employee training progress. Includes JWT-secured REST API, role-based access (admin/employee), quizzes and progress reporting.
 
 **Stack:** `Java` `Spring Boot` `Spring Security (JWT)` `PostgreSQL` `Flyway` `React` `Vite`
 
@@ -46,7 +46,7 @@ Full-stack Learning & Development platform for assigning, tracking and evaluatin
 <td width="50%" valign="top">
 
 ### 📈 [CryptoTracker](https://github.com/NikosKatrakoulis/CryptoTracker)
-Android app for real-time cryptocurrency tracking — live prices, watchlists, and portfolio management, consuming the CoinGecko API.
+Android app for real-time cryptocurrency tracking, live prices, watchlists, and portfolio management, consuming the CoinGecko API.
 
 **Stack:** `Java` `Android` `MVVM` `Room` `Retrofit` `CoinGecko API`
 
@@ -58,7 +58,7 @@ Android app for real-time cryptocurrency tracking — live prices, watchlists, a
 <td width="50%" valign="top">
 
 ### 📝 [Todo App](https://github.com/NikosKatrakoulis/todoapp)
-Full-stack Todo web application with create, complete, and delete task functionality, server-side rendered.
+Full-stack Todo web application with create, complete and delete task functionality, server side rendered.
 
 **Stack:** `Java` `Spring Boot` `Spring Data JPA` `MySQL` `Thymeleaf`
 
@@ -95,7 +95,7 @@ DSA, Spring Boot, SQL, HTML/CSS, System Design & Design Patterns
 - 🏗️ System Design fundamentals
 - 🎨 Software Design Patterns
 - 🔒 Daily practice in private study repositories
-- 🚀 CLI and backend-oriented projects, built incrementally
+- 🚀 CLI and backend oriented projects, built incrementally
 
 </td>
 </tr>
