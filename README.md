@@ -45,6 +45,18 @@ Full-stack Learning & Development platform for assigning, tracking and evaluatin
 </td>
 <td width="50%" valign="top">
 
+### 👥 [Employee Management API](https://github.com/NikosKatrakoulis/employee-management-api)
+Full-stack Employee Management system with JWT-secured REST API, role-based access control (admin/user), employee/department/user administration, Flyway-versioned schema, two frontends (React + Thymeleaf), and a fully Dockerized setup (backend + frontend + database).
+
+**Stack:** `Java` `Spring Boot` `Spring Security (JWT)` `PostgreSQL` `Flyway` `React` `Vite` `Docker`
+
+**[→ View Repository](https://github.com/NikosKatrakoulis/employee-management-api)**
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 ### 📈 [CryptoTracker](https://github.com/NikosKatrakoulis/CryptoTracker)
 Android app for real-time cryptocurrency tracking, live prices, watchlists, and portfolio management, consuming the CoinGecko API.
 
@@ -53,19 +65,8 @@ Android app for real-time cryptocurrency tracking, live prices, watchlists, and 
 **[→ View Repository](https://github.com/NikosKatrakoulis/CryptoTracker)**
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
-### 📝 [Todo App](https://github.com/NikosKatrakoulis/todoapp)
-Full-stack Todo web application with create, complete and delete task functionality, server side rendered.
-
-**Stack:** `Java` `Spring Boot` `Spring Data JPA` `MySQL` `Thymeleaf`
-
-**[→ View Repository](https://github.com/NikosKatrakoulis/todoapp)**
-
-</td>
-<td width="50%" valign="top">
 
 ### 🔒 Working daily on private repositories
 DSA, Spring Boot, SQL, HTML/CSS, System Design & Design Patterns
