@@ -25,7 +25,7 @@
 
 ## 👋 About Me
 
-MSc Software Development graduate focused on **Java backend engineering** with **Spring Boot**. I build projects through hands-on practice and structured, daily study, strengthening core software engineering fundamentals as I work toward a backend engineering role.
+Java backend developer at **Accenture**, working on **banking** and **FinTech** software. MSc Software Development graduate (First Class Honours). I build full-stack projects with Spring Boot, secured REST APIs and PostgreSQL and I keep strengthening my fundamentals through daily practice.
 
 <br/>
 
